@@ -1,10 +1,5 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<title>MODULE 2 ASSIGNMENT</title>
-</head>
-<body>
-TO SEE OUTPUT, PLEASE
-</body>
-<a href="file:///C:/Users/Shreya/mod2/index.html">click here</a>
-</html>
+# Module-2 Coding Assignment
+
+Coursera course: HTML, CSS, and Javascript for Web Developers
+
+# To see the output [CLICK HERE](https://siddartha19.github.io/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/Assignments/module-2/index.html)
